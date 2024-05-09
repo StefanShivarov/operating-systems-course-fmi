@@ -1,3 +1,5 @@
+# Shell Commands Exercises
+
 | Task        | Description |
 |-|-|
 | [02-a-0100](https://github.com/StefanShivarov/operating-systems-course-fmi/blob/main/Shell/Exercises/Commands/02-a-0100.sh)   | Направете копие на файла /etc/passwd във вашата home директория под името my_passwd. |
